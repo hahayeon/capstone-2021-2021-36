@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">집안 물건 찾기</string>
+
+    <string name="naver_client_id">Bvz0CFqGhe2a0fty2Ney</string>
+    <string name="naver_client_secret">PUCsfmNlNx</string>
+    <string name="naver_client_name">집안 물건 찾기</string>
+
+    <string name = "kakaoApi">d67c9ccf0c64a92fff1389cf8b12d15f</string>
+
+</resources>
