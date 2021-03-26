@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126342254036",
+    "project_id": "loginexample-a2450",
+    "storage_bucket": "loginexample-a2450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126342254036:android:a3588e3a7d1a79d1655a41",
+        "android_client_info": {
+          "package_name": "org.techtown.googleloginexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126342254036-srr828nu71592aioaunr7fted8gc5fit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6j_Plb0hJZeyhwUWHyvqxtGH9Kt_vCXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126342254036-srr828nu71592aioaunr7fted8gc5fit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
